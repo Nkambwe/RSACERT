@@ -1,0 +1,15 @@
+C:\Projects\CS\CertApp\CertApp\bin\Debug\net7.0\CertApp.exe
+C:\Projects\CS\CertApp\CertApp\bin\Debug\net7.0\CertApp.deps.json
+C:\Projects\CS\CertApp\CertApp\bin\Debug\net7.0\CertApp.runtimeconfig.json
+C:\Projects\CS\CertApp\CertApp\bin\Debug\net7.0\CertApp.dll
+C:\Projects\CS\CertApp\CertApp\bin\Debug\net7.0\CertApp.pdb
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.csproj.AssemblyReference.cache
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.AssemblyInfoInputs.cache
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.AssemblyInfo.cs
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.csproj.CoreCompileInputs.cache
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.dll
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\refint\CertApp.dll
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.pdb
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\CertApp.genruntimeconfig.cache
+C:\Projects\CS\CertApp\CertApp\obj\Debug\net7.0\ref\CertApp.dll
